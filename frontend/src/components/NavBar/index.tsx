@@ -1,5 +1,5 @@
 import { ReactComponent as Githubicon } from "assets/img/github.svg";
-import './styles.css'
+import './styles.css';
 function NavBar() {
   return (
     <header>
